@@ -26,9 +26,10 @@
 
 ---
 
+
 ## 🏗️ Architecture & Workflow
 
-
+```
 [ Input Source ] ──> ( Direct Text / PDF Stream / Article URL )
 │
 ▼
@@ -39,7 +40,6 @@
 │
 ▼
 [ Presentation ] ───> ( Streamlit Dual-Column Interface )
-
 ```
 
 ---
@@ -79,19 +79,6 @@ venv\Scripts\activate
 
 ```bash
 pip install -r requirements.txt
-
-```
-
-**`requirements.txt`**:
-
-```text
-streamlit
-transformers
-torch
-PyPDF2
-nltk
-textblob
-newspaper3k
 
 ```
 
