@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <!-- Top Animated Teal Banner -->
@@ -6,7 +6,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-008080?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![Website](https://img.shields.io/badge/Portfolio-kerstonanto.in-008080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kerstonanto.in)
 
 > **A minimal build by Kerston Anto Singh**  
@@ -29,8 +28,6 @@
 
 ## 🏗️ Architecture & Workflow
 
-
-```
 
 [ Input Source ] ──> ( Direct Text / PDF Stream / Article URL )
 │
