@@ -57,7 +57,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/kerston2104/News_Article_Summerizer.git](https://github.com/kerston2104/News_Article_Summerizer.git)
+git clone https://github.com/kerston2104/News_Article_Summerizer.git
 cd News_Article_Summerizer
 
 ```
